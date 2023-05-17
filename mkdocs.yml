@@ -44,3 +44,5 @@ extra:
 nav:
   - 'Home':
       - 'Overview': index.md
+  - 'Verb':
+      - 'Overview': verb.md
